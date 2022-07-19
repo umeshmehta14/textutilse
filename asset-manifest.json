@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Word-counter/static/css/main.073c9b0a.css",
-    "main.js": "/Word-counter/static/js/main.c08d4b92.js",
-    "static/js/787.b578638a.chunk.js": "/Word-counter/static/js/787.b578638a.chunk.js",
-    "index.html": "/Word-counter/index.html",
-    "main.073c9b0a.css.map": "/Word-counter/static/css/main.073c9b0a.css.map",
-    "main.c08d4b92.js.map": "/Word-counter/static/js/main.c08d4b92.js.map",
-    "787.b578638a.chunk.js.map": "/Word-counter/static/js/787.b578638a.chunk.js.map"
+    "main.css": "/textutilse/static/css/main.073c9b0a.css",
+    "main.js": "/textutilse/static/js/main.de4d9b23.js",
+    "static/js/787.b578638a.chunk.js": "/textutilse/static/js/787.b578638a.chunk.js",
+    "index.html": "/textutilse/index.html",
+    "main.073c9b0a.css.map": "/textutilse/static/css/main.073c9b0a.css.map",
+    "main.de4d9b23.js.map": "/textutilse/static/js/main.de4d9b23.js.map",
+    "787.b578638a.chunk.js.map": "/textutilse/static/js/787.b578638a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c08d4b92.js"
+    "static/js/main.de4d9b23.js"
   ]
 }
